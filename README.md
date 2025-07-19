@@ -1,3 +1,4 @@
+#SQLBridge
 SQLBridge - Student Learning Project
 Welcome to SQLBridge, a beginner-friendly middleware project built with .NET 8 and ASP.NET Core MVC to connect web applications to a SQL Server database. This project is designed for students to learn key concepts like MVC architecture, Entity Framework Core, SQL Server, and RESTful APIs in a simple, hands-on way. SQLBridge lets you execute SQL queries through a web interface or API, making it a great way to practice building real-world applications.
 What You’ll Learn
