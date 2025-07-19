@@ -45,7 +45,7 @@ Follow these steps to set up the project on your computer:
 
 Clone or Download the Project:
 
-If using Git, run:git clone https://github.com/your-org/sqlbridge.git
+If using Git, run:git clone https://github.com/Sachin88879/SQLBridge.git
 cd sqlbridge
 
 
