@@ -28,7 +28,7 @@ npm or yarn for package management
 
 Steps
 
-Clone the repository:git clone https://github.com/your-org/sqlbridge.git
+Clone the repository:git clone https://github.com/Sachin88879/SQLBridge.git
 cd sqlbridge
 
 
